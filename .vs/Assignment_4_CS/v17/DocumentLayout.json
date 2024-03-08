@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Assignment_4_CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC681E5D-A1F8-4ABA-BE02-0F63D65AC06D}|Assignment_4_CS\\Assignment_4_CS.csproj|e:\\c_sharp\\assignment_4_cs\\assignment_4_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC681E5D-A1F8-4ABA-BE02-0F63D65AC06D}|Assignment_4_CS\\Assignment_4_CS.csproj|solutionrelative:assignment_4_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Assignment_4_CS\\Assignment_4_CS\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_4_CS\\Program.cs",
+              "ToolTip": "E:\\C_Sharp\\Assignment_4_CS\\Assignment_4_CS\\Program.cs",
+              "RelativeToolTip": "Assignment_4_CS\\Program.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:34:38.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
